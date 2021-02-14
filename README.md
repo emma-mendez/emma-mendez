@@ -5,15 +5,15 @@
 
 ## I'm a Vocalist, Full Stack Developer, and Teacher!!
 
-- 🔭 I just launched my first Vocal Training App: [For Creative People Like Myself To Capture Creative Moments on the Go  VS Losing the best ideas you ever had Yikks!][course]!
+- 🔭 I just launched my first Vocal Training App: For Creative People Like Myself To Capture Creative Moments on the Go  VS Losing the best ideas you ever had Yikks![course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
-[<img src="https://now-playing-any1cansing.vercel.app/api/spotify-playing" alt="any1cansing Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<!-- [<img src="https://now-playing-any1cansing.vercel.app/api/spotify-playing" alt="any1cansing Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
 
@@ -56,11 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [BEST Way to Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
+<!-- - [BEST Way to Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
 - [Try THIS GitHub 1 Second Shortcut Trick | VS Code in Browser!! (github1s)](https://www.youtube.com/watch?v=AXXwgJJVeiQ)
 - [Top [20] Web Dev Videos You NEED to Watch! | STACKr News 2021 (February Week 1)](https://www.youtube.com/watch?v=b6rMI_h49fo)
 - [300+ FREE Developer Resources (2021) | Software & Web Development](https://www.youtube.com/watch?v=WS4CjQx4IUA)
-- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
+- [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns) -->
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/any1cansing)
@@ -70,11 +70,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/any1cansing/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/any1cansing/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/any1cansing/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/any1cansing/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/any1cansing/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/any1cansing/emmet-part-2-advanced-4c65)
+- [Emmet Part 2 - Advanced](https://dev.to/any1cansing/emmet-part-2-advanced-4c65) -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://any1cansing.com)
