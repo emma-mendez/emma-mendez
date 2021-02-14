@@ -5,7 +5,7 @@
 
 ## I'm a Vocalist, Full Stack Developer, and Teacher!!
 
-- 🔭 I just launched my first Vocal Training App: For Creative people like myself to capture creative moments whilst 'on the go' VS losing the best ideas you ever had Yikks!
+- 🔭 I just launched my first Vocal Training App: for Creative people like myself to capture creative moments whilst 'on the go' VS losing the best ideas you ever had Yikks!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
