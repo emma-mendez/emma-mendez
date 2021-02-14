@@ -1,6 +1,6 @@
 ### Hi there, I'm Emma 'Make It Happen' Mendez - aka I'esea Mendez when I sing!👋
 
-[![Website](https://img.shields.io/website?label=any1cansing.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://any1cansing.com)
+[![Website](https://img.shields.io/website?label=any1cansing.com&style=for-the-badge&url=https%3A%2F%2Fany1cansing.com)](https://any1cansing.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Emma_Mendez_FSD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Emma_Mendez_FSD)
 
 ## I'm a Vocalist, Full Stack Developer, and Teacher!!
@@ -13,15 +13,15 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-any1cansing.vercel.app/api/spotify-playing" alt="any1cansing Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
 [<img align="left" alt="any1cansing.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="any1cansing | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="any1cansing | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="any1cansing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="any1cansing | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -58,21 +58,21 @@
 - [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/any1cansing)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/any1cansing/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/any1cansing/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/any1cansing/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/any1cansing/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/any1cansing/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://any1cansing.com)
 
 ---
 
@@ -80,11 +80,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🎉 Merged PR [#4](https://github.com/codeSTACKr/free-developer-resources/pull/4) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🎉 Merged PR [#3](https://github.com/codeSTACKr/free-developer-resources/pull/3) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. ❗️ Closed issue [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#2](https://github.com/codeSTACKr/free-developer-resources/issues/2) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🎉 Merged PR [#5](https://github.com/any1cansing/free-developer-resources/pull/5) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
+2. 🎉 Merged PR [#4](https://github.com/any1cansing/free-developer-resources/pull/4) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
+3. 🎉 Merged PR [#3](https://github.com/any1cansing/free-developer-resources/pull/3) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
+4. ❗️ Closed issue [#2](https://github.com/any1cansing/free-developer-resources/issues/2) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
+5. 🗣 Commented on [#2](https://github.com/any1cansing/free-developer-resources/issues/2) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
 <!--END_SECTION:activity-->
 
 </details>
@@ -92,14 +92,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="any1cansing's GitHub Stats" src="https://github-readme-stats.any1cansing.vercel.app/api?username=any1cansing&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://any1cansing.com
 [course]: https://any1cansing.com/courses/
 [twitter]: https://twitter.com/Emma_Mendez_FSD
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
+<!-- [youtube]: https://youtube.com/any1cansing -->
 [instagram]: https://www.instagram.com/black_codher_emmamendez/
 [linkedin]: https://www.linkedin.com/in/emmamendez/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
