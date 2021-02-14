@@ -29,7 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="P5.js" width="26px" src="https://p5js.org/assets/img/p5js.svg" />
-<img align="left" alt="Redux" width="26px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwilsonfong.me%2F&psig=AOvVaw1ssQzsg-z6TLMAAbG2bKd0&ust=1613398860142000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjpk6LJ6e4CFQAAAAAdAAAAABAa" />
+<img align="left" alt="Redux" width="26px" src="https://logodix.com/logo/2074072.png" />
 <img align="left" alt="Material UI" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
