@@ -46,12 +46,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<!-- 
+
 
 <br />
 <br />
 
---- -->
+---
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -65,7 +65,7 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/any1cansing) -->
 
-<!-- --- -->
+---
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -79,17 +79,17 @@
 <!-- 
 ➡️ [more blog posts...](https://any1cansing.com) -->
 
-<!-- --- -->
+---
 <!-- 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
    -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/any1cansing/free-developer-resources/pull/5) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
+<!-- 1. 🎉 Merged PR [#5](https://github.com/any1cansing/free-developer-resources/pull/5) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
 2. 🎉 Merged PR [#4](https://github.com/any1cansing/free-developer-resources/pull/4) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
 3. 🎉 Merged PR [#3](https://github.com/any1cansing/free-developer-resources/pull/3) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
 4. ❗️ Closed issue [#2](https://github.com/any1cansing/free-developer-resources/issues/2) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
-5. 🗣 Commented on [#2](https://github.com/any1cansing/free-developer-resources/issues/2) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
+5. 🗣 Commented on [#2](https://github.com/any1cansing/free-developer-resources/issues/2) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources) -->
 <!--END_SECTION:activity-->
 
 <!-- </details>
