@@ -46,12 +46,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
+<!-- 
 
 <br />
 <br />
 
----
+--- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -65,7 +65,7 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/any1cansing) -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -79,7 +79,7 @@
 <!-- 
 ➡️ [more blog posts...](https://any1cansing.com) -->
 
----
+<!-- --- -->
 <!-- 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -110,4 +110,4 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0# Emma-Mendez-Profile
+<!-- [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0# Emma-Mendez-Profile -->
