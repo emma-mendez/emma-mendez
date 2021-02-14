@@ -29,7 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="P5.js" width="26px" src="https://p5js.org/assets/img/p5js.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F49%2FRedux.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARedux.png&tbnid=3AQHSTLpgMhobM&vet=12ahUKEwij9uSgyenuAhUGsxoKHR2yCE8QMygCegUIARCqAQ..i&docid=_ci-udJlRzDXJM&w=312&h=244&q=redux%20logo&ved=2ahUKEwij9uSgyenuAhUGsxoKHR2yCE8QMygCegUIARCqAQ" />
+<img align="left" alt="Terminal" width="26px" src="https://www.cloudsavvyit.com/thumbcache/0/0/9ae57549b0d5ea676000cc68d140330d/p/uploads/2020/03/9c80fe24.png" />
 <img align="left" alt="Material UI" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
