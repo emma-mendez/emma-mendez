@@ -53,7 +53,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
 <!-- - [BEST Way to Build a DISCORD Slash Command BOT with Cloudflare Workers!! Deploy FREE!](https://www.youtube.com/watch?v=xRt9PwphmY8)
@@ -63,11 +63,11 @@
 - [Top 20 Web Dev Videos You NEED to Watch! | STACKr News 2021 (January Week 4)](https://www.youtube.com/watch?v=GgVN0e0Trns) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/any1cansing)
+<!-- ➡️ [more videos...](https://youtube.com/any1cansing) -->
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/any1cansing/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -76,14 +76,14 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/any1cansing/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/any1cansing/emmet-part-2-advanced-4c65) -->
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://any1cansing.com)
+<!-- 
+➡️ [more blog posts...](https://any1cansing.com) -->
 
 ---
-
+<!-- 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+   -->
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/any1cansing/free-developer-resources/pull/5) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
 2. 🎉 Merged PR [#4](https://github.com/any1cansing/free-developer-resources/pull/4) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
@@ -92,14 +92,14 @@
 5. 🗣 Commented on [#2](https://github.com/any1cansing/free-developer-resources/issues/2) in [any1cansing/free-developer-resources](https://github.com/any1cansing/free-developer-resources)
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="any1cansing's GitHub Stats" src="https://github-readme-stats.any1cansing.vercel.app/api?username=any1cansing&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://any1cansing.com
 [course]: https://any1cansing.com/courses/
