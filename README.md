@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=any1cansing.com&style=for-the-badge&url=https%3A%2F%2Fany1cansing.com)](https://any1cansing.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Emma_Mendez_FSD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Emma_Mendez_FSD)
-[![Instagram Follow](https://img.shields.io/instagram/follow/Emma_Mendez_FSD?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/black_codher_emmamendez/)
 
 
 
@@ -18,7 +17,7 @@
 
 # PROJECTS MOST PROUD OF 
 - [Native Vocal Application](react-native-vocal-app.vercel.app)(Coming Soon - side project development phase) Taking my personal project - Next Level - Going Rogue
-- [React.JS Vocal App](https://acs-vocal-training.vercel.app/) - Final Personal Project on BCH Complete 
+- [React.JS Vocal App](https://acs-vocal-training.vercel.app/) - Final Personal Project on Black CodHer Bootcamp  
 - [React.JS Bookstore]() - Taking the Bookstore to the next level on BCH Bootcamp (Deployment Error - Debugging March Re-Delply)
 - [Bookstore](https://welcome-bookstore.vercel.app) - Black CodHer Bootcamp Project 
 - [A Quiz](https://quiz-iesea.vercel.app/) I Made - Enjoy! 😉 
