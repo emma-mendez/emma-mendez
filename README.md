@@ -14,7 +14,7 @@
 <!-- ### Spotify Playing 🎧 -->
 
 # PROJECTS MOST PROUD OF 
-- Native Vocal Application (Coming Soon currently in my side project development phase) Taking my personal project to the Next Level Rogue
+- [Native Vocal Application](react-native-vocal-app.vercel.app)(Coming Soon - side project development phase) Taking my personal project to the Next Level Rogue
 - [React.JS Vocal App](https://acs-vocal-training.vercel.app/) - Final Personal Project on BCH Complete 
 - [React.JS Bookstore]() - Taking the Bookstore to the next level on BCH Bootcamp
 - [Bookstore](https://welcome-bookstore.vercel.app) - Black CodHer Bootcamp Project 
