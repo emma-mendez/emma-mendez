@@ -13,10 +13,10 @@
 
 <!-- ### Spotify Playing 🎧 -->
 
-# PROJECTS IM MOST PROUD OF - TO DATE
+# PROJECTS MOST PROUD OF 
 - Native Vocal Application (Comming Soon currently in my side project development phase)
 - [React.JS Vocal App](acs-vocal-training.vercel.app)
-- Black CodHer Bootcamp Project [Bookstore]()
+- [Bookstore]() - Black CodHer Bootcamp Project 
 - [A Quiz](https://quiz-iesea.vercel.app/) I Made - Enjoy! 😉 
 - [First Ever Code - About Me](myfirstcode.vercel.app)
 <!-- ### Spotify Playing 🎧 -->
