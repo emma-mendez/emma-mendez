@@ -13,6 +13,14 @@
 
 <!-- ### Spotify Playing 🎧 -->
 
+# PROJECTS IM MOST PROUD OF - TO DATE
+- Native Vocal Application (Comming Soon currently in my side project development phase)
+- [React.JS Vocal App](acs-vocal-training.vercel.app)
+- Black CodHer Bootcamp Project [Bookstore]()
+- [A Quiz](https://quiz-iesea.vercel.app/) I Made - Enjoy! 😉 
+- [First Ever Code - About Me](myfirstcode.vercel.app)
+<!-- ### Spotify Playing 🎧 -->
+
 <!-- [<img src="https://now-playing-any1cansing.vercel.app/api/spotify-playing" alt="any1cansing Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
