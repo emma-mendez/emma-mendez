@@ -18,7 +18,7 @@
 - [React.JS Vocal App](https://acs-vocal-training.vercel.app/)
 - [Bookstore]() - Black CodHer Bootcamp Project 
 - [A Quiz](https://quiz-iesea.vercel.app/) I Made - Enjoy! 😉 
-- [First Ever Code - About Me](myfirstcode.vercel.app)
+- [First Ever Code - About Me](https://myfirstcode.vercel.app)
 <!-- ### Spotify Playing 🎧 -->
 
 <!-- [<img src="https://now-playing-any1cansing.vercel.app/api/spotify-playing" alt="any1cansing Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
