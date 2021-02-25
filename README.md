@@ -16,7 +16,7 @@
 # PROJECTS MOST PROUD OF 
 - [Native Vocal Application](react-native-vocal-app.vercel.app)(Coming Soon - side project development phase) Taking my personal project - Next Level - Going Rogue
 - [React.JS Vocal App](https://acs-vocal-training.vercel.app/) - Final Personal Project on BCH Complete 
-- [React.JS Bookstore]() - Taking the Bookstore to the next level on BCH Bootcamp
+- [React.JS Bookstore]() - Taking the Bookstore to the next level on BCH Bootcamp (Deployment Error - Debugging March Re-Delply)
 - [Bookstore](https://welcome-bookstore.vercel.app) - Black CodHer Bootcamp Project 
 - [A Quiz](https://quiz-iesea.vercel.app/) I Made - Enjoy! 😉 
 - [First Ever Code - About Me](https://myfirstcode.vercel.app)
