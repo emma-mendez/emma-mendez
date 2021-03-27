@@ -7,6 +7,7 @@
 
 ## I'm a Vocalist, Full Stack Developer, and Teacher!!
 
+- Currently creating a 'Booking App' for members only at [Dime Studios](http://www.dimestudios.co.uk/)
 - 🔭 I've just launched my first Vocal Training App: for Creative people like myself to capture creative moments whilst 'on the go' VS losing the best ideas you ever had Yikks!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
