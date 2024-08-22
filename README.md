@@ -17,11 +17,6 @@
 <!-- ### Spotify Playing 🎧 -->
 
 # PROJECTS MOST PROUD OF 
-- [React Native Dime Studios App](https://play.google.com/store/apps/details?id=com.ieseamendez.dimevipapp&hl=en-GB&ah=zsn-Y7Ey1q2Kkp4ISMNUSx2Cd50) - First Prototype deployment to Google Play Store in test mode (see Android ready app)
-- [React.JS Vocal App](https://acs-vocal-training.vercel.app/) - Final Personal Project on Black CodHer Bootcamp - some missing functions *presentation demo
-- [Native Vocal Application](react-native-vocal-app.vercel.app)(Coming Soon - side project development phase) Taking my personal project - Next Level - Going Rogue
-- [React.JS Bookstore]() - Taking the Bookstore to the next level on BCH Bootcamp (Deployment Error - Debugging March Re-Delply)
-- [Bookstore](https://welcome-bookstore.vercel.app) - Black CodHer Bootcamp Project 
 - [A Quiz](https://quiz-iesea.vercel.app/) I Made - Enjoy! 😉 
 - [First Ever Code - About Me](https://myfirstcode.vercel.app)
 <!-- ### Spotify Playing 🎧 -->
